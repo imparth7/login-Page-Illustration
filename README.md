@@ -1,4 +1,4 @@
 # login-Page-Illustration
 I created this login page for interaction with users and experimenting some javascript features.
 
-![Login gif](./record.gif)
+![Login gif](./record.mkv)
